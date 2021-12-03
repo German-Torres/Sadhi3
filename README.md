@@ -15,4 +15,4 @@ Documentación de ayuda:
 [EA_GPY01.docx](https://github.com/German-Torres/Sadhi3/files/7649044/EA_GPY01.docx)
 
 Proyecto:
-[Sadhi_v3.zip](https://github.com/German-Torres/Sadhi3/files/7649168/Sadhi_v3.zip)
+
